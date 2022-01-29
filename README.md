@@ -1,41 +1,34 @@
 # Horizon
 
-Horizon is a beautifully warm dark colorscheme for Vim & inspired by [Visual Studio Code Horizon Theme](https://marketplace.visualstudio.com/items?itemName=jolaleye.horizon-theme-vscode)
+Horizon is a beautifully warm dark colorscheme for VNeoVim & inspired by [Visual Studio Code Horizon Theme](https://marketplace.visualstudio.com/items?itemName=jolaleye.horizon-theme-vscode)
 
 ## Installation
 
-- Use [Vim Plug](https://github.com/junegunn/vim-plug)
+- Use [Packer](https://github.com/wbthomason/packer.nvim)
 
 ```
-Plug 'ntk148v/vim-horizon'
+use(' Radu-Svetly/nvim-horizon')
 ```
 
 - Other Vim Plugin Management Tools should be the same.
 
 ## Usage
 
-Put something like this in your vimrc/init.vim:
+init.lua:
 
 ```vim
-" if you don't set this option, this color might not correct
+vim.opt.termguicolors = true
+
+" No native lua implementation as of yet
+vim.cmd(colorscheme horizon)  
+```
+
+init.vim:
+
+```vim
 set termguicolors
 
 colorscheme horizon
-
-" lightline
-let g:lightline = {}
-let g:lightline.colorscheme = 'horizon'
-
-" or this line
-let g:lightline = {'colorscheme' : 'horizon'}
-```
-
-To apply lightline colorscheme without reloading:
-
-```
-:let g:lightline.colorscheme = 'horizon'
-:call lightline#init()
-:call lightline#colorscheme()
 ```
 
 ## Screenshots
@@ -48,7 +41,7 @@ To apply lightline colorscheme without reloading:
 
 ## Compatibility
 
-I only tested vim-horizon with Neovim, but it might work with Vim as well.
+I only tested this theme with Neovim, but it might work with Vim as well.
 
 ## Color Palette
 

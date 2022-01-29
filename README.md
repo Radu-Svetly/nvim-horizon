@@ -7,7 +7,7 @@ Horizon is a beautifully warm dark colorscheme for VNeoVim & inspired by [Visual
 - Use [Packer](https://github.com/wbthomason/packer.nvim)
 
 ```
-use(' Radu-Svetly/nvim-horizon')
+use('Radu-Svetly/nvim-horizon')
 ```
 
 - Other Vim Plugin Management Tools should be the same.

@@ -72,7 +72,7 @@ hi! StorageClass cterm=italic gui=italic ctermfg=37 guifg=#25b0bc
 hi! String cterm=NONE gui=NONE ctermfg=209 guifg=#fab795
 hi! Structure cterm=NONE gui=NONE ctermfg=37 guifg=#25b0bc
 hi! TabLine cterm=NONE gui=NONE ctermbg=245 ctermfg=234 guibg=#2E303E guifg=#6C6F93
-hi! TabLineFill cterm=reverse gui=reverse ctermbg=234 ctermfg=245 guibg=#17171b guifg=#1C1E26
+hi! TabLineFill cterm=reverse gui=reverse ctermbg=234 ctermfg=245 guibg=#17171b guifg=#2E303E
 hi! TabLineSel cterm=NONE gui=NONE ctermbg=234 ctermfg=247 guibg=#232530 guifg=#9a9ca5
 hi! Title cterm=bold gui=bold ctermfg=37 guifg=#25b0bc
 hi! Todo cterm=inverse,bold gui=inverse,bold ctermbg=59 ctermfg=48 guibg=#45493e guifg=#09f7a0

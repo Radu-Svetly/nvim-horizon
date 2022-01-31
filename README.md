@@ -1,6 +1,6 @@
 # Horizon
 
-Horizon is a beautifully warm dark colorscheme for VNeoVim & inspired by [Visual Studio Code Horizon Theme](https://marketplace.visualstudio.com/items?itemName=jolaleye.horizon-theme-vscode)
+Horizon is a beautifully warm dark colorscheme for NeoVim & inspired by [Visual Studio Code Horizon Theme](https://marketplace.visualstudio.com/items?itemName=jolaleye.horizon-theme-vscode)
 
 ## Installation
 
@@ -33,11 +33,7 @@ colorscheme horizon
 
 ## Screenshots
 
-![](./screenshots/screenshot1.png)
 
-![](./screenshots/screenshot2.png)
-
-![](./screenshots/screenshot3.png)
 
 ## Compatibility
 

@@ -48,6 +48,8 @@ hi! LineNr cterm=NONE gui=NONE ctermbg=233 ctermfg=239 guibg=#1c1e26 guifg=#6c6f
 hi! MatchParen cterm=NONE gui=NONE ctermbg=237 ctermfg=255 guibg=#3e445e guifg=#ffffff
 hi! MoreMsg cterm=NONE gui=NONE ctermfg=48 guifg=#09f7a0
 hi! Normal cterm=NONE gui=NONE ctermbg=233 ctermfg=252 guibg=#1c1e26 guifg=#d5d8da
+hi! NormalFloat guifg=#FAB795 guibg=#1f2335
+hi! FloatBorder guibg=#1f2335
 hi! Operator cterm=NONE gui=NONE ctermfg=37 guifg=#25b0bc
 hi! Pmenu cterm=NONE gui=NONE ctermbg=233 ctermfg=252 guifg=#F09383 guibg=#1C1E26
 hi! PmenuSel cterm=NONE gui=NONE ctermbg=240 ctermfg=255 guibg=#5b6389 guifg=#eff0f4

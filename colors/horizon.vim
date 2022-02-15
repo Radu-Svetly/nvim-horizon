@@ -80,7 +80,7 @@ hi! Title cterm=bold gui=bold ctermfg=37 guifg=#25b0bc
 hi! Todo cterm=inverse,bold gui=inverse,bold ctermbg=59 ctermfg=48 guibg=#45493e guifg=#09f7a0
 hi! Type cterm=NONE gui=NONE ctermfg=209 guifg=#fab795
 hi! Underlined cterm=underline gui=underline ctermfg=37 guifg=#25b0bc
-hi! VertSplit cterm=bold gui=bold ctermbg=233 ctermfg=233 guibg=#2E303E guifg=#2E303E
+hi! VertSplit cterm=bold gui=bold ctermbg=233 ctermfg=233 guibg=#1C1E26 guifg=#1C1E26
 hi! Visual cterm=NONE gui=NONE ctermbg=236 guibg=#272c42
 hi! WildMenu cterm=NONE gui=NONE ctermbg=255 ctermfg=234 guibg=#d4d5db guifg=#17171b
 hi! diffAdded cterm=NONE gui=NONE ctermfg=48 guifg=#09f7a0

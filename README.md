@@ -4,7 +4,7 @@ Rewrite in lua. Keep vimscript as legacy
 
 # Horizon
 
-Horizon is a beautifully warm dark colorscheme for NeoVim & inspired by [Visual Studio Code Horizon Theme](https://marketplace.visualstudio.com/items?itemName=jolaleye.horizon-theme-vscode)
+Horizon is a beautifully warm dark colorscheme for NeoVim inspired by [Visual Studio Code Horizon Theme](https://marketplace.visualstudio.com/items?itemName=jolaleye.horizon-theme-vscode)
 
 ## Installation
 
